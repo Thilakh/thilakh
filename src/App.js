@@ -6,6 +6,7 @@ import Main from "./components/Main";
 import Footex from "./components/Footex";
 import Navbar from "./components/Navbar";*/
 import Hello from './day2/Hello';
+import Style from './day2/Style';
 import Button from './day3/Button';
 import {Goku} from './day3/Goku';
 
@@ -24,6 +25,7 @@ function App() {
       <Button>Blue</Button>
       <Button>Yellow</Button>
       <Goku></Goku>
+      <Style></Style>
     </div>
   );
 }
